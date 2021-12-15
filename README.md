@@ -14,7 +14,7 @@ A tool to merge parts of a PS4 PKG into one entire PKG file. Useful for installi
 1. Build and run
 
 
-##Merge PS4 pkg files in Linux
+## Merge PS4 pkg files in Linux
 
 You can merge the pkg files by copying the merge.sh and pkg-merge-x64.exe to the folder containing the pkg files.
 
