@@ -1,0 +1,3 @@
+Open terminal in the folder containing the pkg files and the pkgmerge.exe and merge.sh
+type ./merge/sh
+
